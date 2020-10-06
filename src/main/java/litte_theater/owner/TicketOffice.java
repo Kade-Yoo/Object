@@ -1,4 +1,7 @@
-package LittleTheater;
+package litte_theater.owner;
+
+import litte_theater.deal.thing.Invitation;
+import litte_theater.deal.thing.Ticket;
 
 import java.util.List;
 

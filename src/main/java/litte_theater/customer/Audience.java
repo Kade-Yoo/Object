@@ -1,4 +1,6 @@
-package LittleTheater;
+package litte_theater.customer;
+
+import litte_theater.customer.stuff.Bag;
 
 public class Audience {
 

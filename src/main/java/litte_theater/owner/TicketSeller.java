@@ -1,4 +1,4 @@
-package LittleTheater;
+package litte_theater.owner;
 
 public class TicketSeller {
 
